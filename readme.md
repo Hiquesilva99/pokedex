@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto Construido ao ver exemplos e referências no youtube
+Projeto Construido para estudos pessoal
 
 [Clique aqui para acessar (https://hiquesilva99.github.io/pokedex/)]
 
